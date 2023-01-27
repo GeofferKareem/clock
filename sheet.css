@@ -1,0 +1,11 @@
+.masaa {
+    background-color: red;
+    color: aliceblue;
+    width: 8%;
+    padding-top: 4px;
+    padding-left: 4px;
+    padding-bottom: 4px;
+    padding-right: 4px;
+    border-radius: 5px;
+    font-weight: bold;
+}
